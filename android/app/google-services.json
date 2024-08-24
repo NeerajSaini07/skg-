@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795118604368",
+    "project_id": "skg-school",
+    "storage_bucket": "skg-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795118604368:android:3819dd641629432a1a4155",
+        "android_client_info": {
+          "package_name": "com.campuspro.skgschool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOqZyjtjb8c10j-dE6AEWa_OFmzryDhxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
